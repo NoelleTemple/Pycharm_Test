@@ -27,4 +27,4 @@ https://git-scm.com/download/win
 8. Select 'Git'
 9. Select 'Repository'
 10. Select Push
-11. Enter Credentials if prompted
+11. Enter git credentials if prompted
