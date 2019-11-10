@@ -1,13 +1,13 @@
 # Pycharm_Test
 
-###Download git for windows:
+##Download git for windows:
 
 download will begin automatically
 
 ```
 https://git-scm.com/download/win
 ```
-###Clone GitHub Repo
+##Clone GitHub Repo
 1. Close all opened projects in PyCharm  
 2. Copy 'Clone or Download' link from GitHub
 3. Open PyCharm
@@ -16,14 +16,14 @@ https://git-scm.com/download/win
 6. Paste URL 
 7. Clone
 
-###Pulling from GitHub
+##Pulling from GitHub
 *For already downloaded repo
 1. Right click on project folder
 2. Select 'Git'
 3. Select 'Repository'
 4. Select 'Pull'
 
-###Pushing to GitHub
+##Pushing to GitHub
 1. Make edits
 2. Right click on project folder
 3. Select 'Git'
