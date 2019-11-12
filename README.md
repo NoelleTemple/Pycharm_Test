@@ -4,9 +4,6 @@
 
 download will begin automatically
 
-```
-https://git-scm.com/download/win
-```
 ### Clone GitHub Repo
 1. Close all opened projects in PyCharm  
 2. Copy 'Clone or Download' link from GitHub
